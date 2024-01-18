@@ -1,2 +1,2 @@
 # NAGNE
-The source code will be made public after the paper is published
+The source code is being collated.
